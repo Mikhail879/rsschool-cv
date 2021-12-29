@@ -1,24 +1,3 @@
-.container {
-    display: inline-flex;
-    flex-direction: row;
-}
-.item {
-    padding: 20px;
-    font-size: 25px;
-    border: 1px solid black;
-    
-
-}
-.item_1 {
-    width: 25px;
-    flex-basis: 100px;
-    
-}
-.item_2 {
-    width: 25px;
-    flex-basis: 100px;
-}
-.item_3 {
-    width: 25px;
-    flex-basis: 100px;
+body {
+    font-family: 'Roboto', sans-serif;
 }
