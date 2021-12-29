@@ -1,8 +1,8 @@
- # **Mikhail Priyatnov**
+# **Mikhail Priyatnov**
 
 
 
- ### **■ Contacts**
+### **■ Contacts**
 * Discord Nickname: Mikhail#6192
 
 * GitHub Nickname Mikhail879
@@ -22,4 +22,4 @@
 * Rolling Scopes Scool: Front End pre stage
 ---
 ### **■ English**
- My level of English is B2. I try to expose every day. I also attend speaking clubs in weekend. I feel free when I speak in English.
+My level of English is B2. I try to expose every day. I also attend speaking clubs in weekend. I feel free when I speak in English.
