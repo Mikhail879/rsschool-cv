@@ -4,11 +4,13 @@
 * Discord Nickname: Mikhail#6192
 
 * GitHub Nickname Mikhail879
+
 ******
 
 ### **■ In nutshell about me**
 
 *I strive to discover and learn new things. I like to have a fun.*
+
 ******
 
 ### **■ Skills**
@@ -20,6 +22,7 @@
 
 ### **■ Education**
 * Rolling Scopes Scool: Front End pre stage
+
 ******
 
 ### **■ English**
